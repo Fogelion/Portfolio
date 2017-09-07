@@ -48,8 +48,10 @@
   height: 100%;
   right: 0%;
 }
-.ex_links > img {
+.ex_links img{
+  background-size: contain;
   min-width: auto;
-  max-width: 60px;
-  max-height: 50px;
+  max-width: 300px;
+  max-height: 150px;
+  margin:  15px;
 }
