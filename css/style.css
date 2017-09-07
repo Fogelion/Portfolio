@@ -36,9 +36,20 @@
   -webkit-background-clip: text; */
 }
 #navigation{
-  width: 20%;
   background-color: black;
+  width: 20%;
   height: 100%;
   left: 40%;
   right: 40%;
+}
+#examples {
+  background-image: url(../img/17-fon-dlya-sayta.png);
+  width: 40%;
+  height: 100%;
+  right: 0%;
+}
+.ex_links > img {
+  min-width: auto;
+  max-width: 60px;
+  max-height: 50px;
 }
