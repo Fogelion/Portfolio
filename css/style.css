@@ -1,3 +1,9 @@
+@font-face {
+  font-family: b52;
+  src: url(../fonts/b52.ttf);
+
+}
+
 #info, #navigation, #examples {
   /* border: 1px solid; */
 }
@@ -6,4 +12,18 @@
   max-width: 300px;
   max-height: 300px;
   border-radius:15%;
+}
+#info {
+  background-image: url(../img/3-fon-dlya-sayta.png);
+  font-family: b52;
+}
+/* #info p{
+  background-color: black;
+  width: 30%;
+} */
+#info p span{
+  background-image: url(../img/3-fon-dlya-sayta.png);
+  font-weight: 700;
+  /* -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text; */
 }
