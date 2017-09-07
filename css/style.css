@@ -5,7 +5,7 @@
 }
 
 #info, #navigation, #examples {
-  /* border: 1px solid; */
+  position: fixed;
 }
 #photo {
   min-width: auto;
@@ -13,17 +13,32 @@
   max-height: 300px;
   border-radius:15%;
 }
+#logo {
+  min-width: auto;
+  max-width: 200px;
+  max-height: 200px;
+  border-radius:15%;
+}
 #info {
   background-image: url(../img/3-fon-dlya-sayta.png);
   font-family: b52;
+  font-weight: 700;
+  width: 40%;
+  height: 100%;
 }
-/* #info p{
+/* #info h1{
   background-color: black;
   width: 30%;
 } */
 #info p span{
   background-image: url(../img/3-fon-dlya-sayta.png);
-  font-weight: 700;
   /* -webkit-text-fill-color: transparent;
   -webkit-background-clip: text; */
+}
+#navigation{
+  width: 20%;
+  background-color: black;
+  height: 100%;
+  left: 40%;
+  right: 40%;
 }
