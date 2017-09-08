@@ -38,6 +38,9 @@
   background-color: black;
   width: 20%;
 }
+#btns button{
+  cursor: default;
+}
 #examples {
   background-image: url(../img/17-fon-dlya-sayta.png);
   right: 0;
@@ -54,6 +57,9 @@
 }
 .wide_side {
   width: 80%;
+}
+.hide_side {
+  width: 0;
 }
 .normal_central {
   left: 40%;
