@@ -27,7 +27,6 @@ $(document).ready(function() {
     $("#navigation").removeClass(removeCentral).addClass(addCentral);
     $("#examples").removeClass(removeRight).addClass(addRight);
   };
-
   $("#btns").on("click", function(data) {
     switcher(data.target.id);
     console.log(data);
