@@ -22,7 +22,7 @@
 }
 #info {
   background-image: url(../img/3-fon-dlya-sayta.png);
-  font-family: b52;
+  font-family: b52, serif;
   font-weight: 700;
 }
 /* #info h1{
@@ -72,3 +72,4 @@
 .left_central {
   left: 0;
 }
+
