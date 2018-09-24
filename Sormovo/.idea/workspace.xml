@@ -87,8 +87,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="46">
-              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="115">
+              <caret line="5" column="84" lean-forward="true" selection-start-line="5" selection-start-column="84" selection-end-line="5" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -240,7 +240,7 @@
       <workItem from="1537191275386" duration="9785000" />
       <workItem from="1537604291281" duration="605000" />
       <workItem from="1537696704034" duration="1215000" />
-      <workItem from="1537769991913" duration="8178000" />
+      <workItem from="1537769991913" duration="8370000" />
     </task>
     <task id="LOCAL-00001" summary="add Sormovo.start">
       <created>1537796706400</created>
@@ -249,23 +249,29 @@
       <option name="project" value="LOCAL" />
       <updated>1537796706400</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add Sormovo.start2">
+      <created>1537799029715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1537799029715</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25924000" />
+    <option name="totallyTimeSpent" value="26116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="SVN Repositories" order="6" side_tool="true" weight="0.32942432" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49734324" visible="true" weight="0.12846482" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49734324" visible="true" weight="0.12846482" />
       <window_info anchor="right" id="TODO" order="3" show_stripe_button="false" sideWeight="0.50265676" side_tool="true" weight="0.15351813" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3297062" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="right" id="Event Log" order="9" sideWeight="0.50265676" side_tool="true" weight="0.20522387" />
-      <window_info active="true" anchor="right" id="Version Control" order="10" sideWeight="0.50478214" side_tool="true" visible="true" weight="0.43017057" />
+      <window_info anchor="right" id="Version Control" order="10" sideWeight="0.50478214" side_tool="true" weight="0.43017057" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3297414" />
       <window_info anchor="right" x="1608" y="81" width="289" height="941" id="Structure" order="7" sideWeight="0.49415517" side_tool="true" weight="0.152" />
       <window_info anchor="right" id="Terminal" order="8" sideWeight="0.49734324" weight="0.20522387" />
@@ -314,7 +320,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Sormovo.start" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Sormovo.start" />
+    <MESSAGE value="add Sormovo.start2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Sormovo.start2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -551,8 +558,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="115">
+          <caret line="5" column="84" lean-forward="true" selection-start-line="5" selection-start-column="84" selection-end-line="5" selection-end-column="84" />
         </state>
       </provider>
     </entry>
