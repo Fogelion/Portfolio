@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac19c4e0-7c99-4673-95f2-d0a77c786f90" name="Default" comment="" />
+    <list default="true" id="ac19c4e0-7c99-4673-95f2-d0a77c786f90" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -85,8 +87,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+            <state relative-caret-position="46">
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -238,7 +240,7 @@
       <workItem from="1537191275386" duration="9785000" />
       <workItem from="1537604291281" duration="605000" />
       <workItem from="1537696704034" duration="1215000" />
-      <workItem from="1537769991913" duration="7602000" />
+      <workItem from="1537769991913" duration="8178000" />
     </task>
     <task id="LOCAL-00001" summary="add Sormovo.start">
       <created>1537796706400</created>
@@ -251,7 +253,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25348000" />
+    <option name="totallyTimeSpent" value="25924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -263,7 +265,7 @@
       <window_info anchor="bottom" id="Messages" order="0" weight="0.3297062" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="right" id="Event Log" order="9" sideWeight="0.50265676" side_tool="true" weight="0.20522387" />
-      <window_info anchor="right" id="Version Control" order="10" sideWeight="0.50478214" side_tool="true" weight="0.43017057" />
+      <window_info active="true" anchor="right" id="Version Control" order="10" sideWeight="0.50478214" side_tool="true" visible="true" weight="0.43017057" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3297414" />
       <window_info anchor="right" x="1608" y="81" width="289" height="941" id="Structure" order="7" sideWeight="0.49415517" side_tool="true" weight="0.152" />
       <window_info anchor="right" id="Terminal" order="8" sideWeight="0.49734324" weight="0.20522387" />
@@ -549,8 +551,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        <state relative-caret-position="46">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
         </state>
       </provider>
     </entry>
